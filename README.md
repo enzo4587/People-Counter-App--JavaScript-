@@ -1,2 +1,1 @@
-Html file
-CSS file
+HTML file, CSS file, JS file
