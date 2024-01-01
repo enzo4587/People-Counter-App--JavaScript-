@@ -1,3 +1,4 @@
+// Create a variable count.
 let count = 0;
 
 let peopleCount = document.getElementById("peopleCount")
